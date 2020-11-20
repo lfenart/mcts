@@ -1,3 +1,3 @@
 mod mcts;
 
-pub use mcts::{MctsGame, MctsState};
+pub use mcts::{Mcts, MctsGame, MctsState};
